@@ -1,5 +1,5 @@
 #!/bin/bash
-             docker build -q -t my-demo .
+             docker build -q -t dineshdo14 .
              if [ $? -eq 0 ]; then
    	echo OK, image created
 else
