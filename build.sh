@@ -8,3 +8,4 @@ else
 fi
 
 	echo "Building docker images"
+ 	echo "Successfull"
